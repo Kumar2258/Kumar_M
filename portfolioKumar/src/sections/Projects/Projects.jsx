@@ -26,7 +26,7 @@ function Projects() {
           src={hipsster}
           link="https://github.com/Kumar2258/QuizSpark"
           h3="QuizSpark"
-          p="Quiz Platform"
+          p="Quiz Platform Using Java Swing"
         />
         <ProjectCard
           src={fitLift}
