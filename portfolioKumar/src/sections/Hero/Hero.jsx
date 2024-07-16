@@ -26,7 +26,7 @@ function Hero() {
         <img
           src={heroImg}
           className={styles.hero}
-          alt="Profile picture of Harris Johnsen"
+          alt="Profile picture of Kumar Mahadik"
         />
         <img
           className={styles.colorMode}
@@ -54,7 +54,7 @@ function Hero() {
           </a>
         </span>
         <p className={styles.description}>
-        Passionate about leveraging machine learning to drive innovation and make meaningful contributions to impactful projects.
+          Passionate about leveraging machine learning to drive innovation and make meaningful contributions to impactful projects.
         </p>
         <a href={CV} download>
           <button className="hover">Resume</button>
